@@ -1,0 +1,21 @@
+{
+  "name": "bn-en-dictionary",
+  "version": "1.0.0",
+  "description": "Bengali to English dictionary with Bengali and romanized lookup based on Wiktionary dump.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "files": [
+    "src",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "bengali",
+    "bangla",
+    "dictionary",
+    "translation",
+    "wiktionary"
+  ],
+  "license": "CC-BY-SA-3.0"
+}
