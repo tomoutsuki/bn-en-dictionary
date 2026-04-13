@@ -14,7 +14,7 @@ console.log(translation2);
 ```
 
 Object Structure Example
-```js
+```json
 {
     "en": "number",
     "bn": "সংখ্যা",
