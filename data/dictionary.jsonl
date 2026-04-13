@@ -18163,3 +18163,317 @@
 {"en": "till, until", "bn": "তক", "pos": "postp", "def": "till, until", "source": "Wiktionary", "license": "CC BY-SA", "romanised": "tok"}
 {"en": "Walid", "bn": "ওয়ালিদ", "pos": "name", "def": "A male given name from Arabic.", "source": "Wiktionary", "license": "CC BY-SA", "romanised": "oyalid"}
 {"en": "direction, side", "bn": "দিক", "pos": "noun", "def": "direction, side", "source": "Wiktionary", "license": "CC BY-SA", "romanised": "dik"}
+{"en": "response to greeting", "bn": "ওয়ালাইকুম আসসালাম", "pos": "sentence", "def": "A reply used after a greeting.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oyalaikumo assalam"}
+{"en": "good afternoon", "bn": "শুভ বিকাল", "pos": "sentence", "def": "A greeting used in the afternoon.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shubho bikal"}
+{"en": "stay well", "bn": "ভালো থাকবেন", "pos": "sentence", "def": "A farewell used to wish someone well.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhalo thakben"}
+{"en": "see you again", "bn": "আবার দেখা হবে", "pos": "sentence", "def": "A farewell used when parting.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "abaro dekha hobe"}
+{"en": "see you later", "bn": "পরে দেখা হবে", "pos": "sentence", "def": "A farewell used when parting.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pore dekha hobe"}
+{"en": "see you tomorrow", "bn": "কাল দেখা হবে", "pos": "sentence", "def": "A farewell used when parting.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kalo dekha hobe"}
+{"en": "thank you very much", "bn": "অনেক ধন্যবাদ", "pos": "sentence", "def": "An expression of gratitude.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oneko dhonyobad"}
+{"en": "thank you", "bn": "ধন্যবাদ আপনাকে", "pos": "sentence", "def": "An expression of gratitude.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhonyobado apnake"}
+{"en": "thank you", "bn": "ধন্যবাদ তোমাকে", "pos": "sentence", "def": "An expression of gratitude.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhonyobado tomake"}
+{"en": "welcome", "bn": "আপনাকে স্বাগতম", "pos": "sentence", "def": "An expression used to welcome someone.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "apnake sbagtom"}
+{"en": "I am sorry", "bn": "আমি দুঃখিত", "pos": "sentence", "def": "A polite apology or request for forgiveness.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ami duhkhit"}
+{"en": "please forgive me", "bn": "ক্ষমা করবেন", "pos": "sentence", "def": "A polite apology or request for forgiveness.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kkhoma koroben"}
+{"en": "how are you?", "bn": "কেমন আছেন?", "pos": "sentence", "def": "A question used to ask how are you?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kemno acheno?"}
+{"en": "how are you?", "bn": "কেমন আছো?", "pos": "sentence", "def": "A question used to ask how are you?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kemno acho?"}
+{"en": "how are you?", "bn": "কেমন আছিস?", "pos": "sentence", "def": "A question used to ask how are you?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kemno achiso?"}
+{"en": "I am fine", "bn": "আমি ভালো আছি", "pos": "sentence", "def": "A phrase used as a greeting or expression: I am fine.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ami bhalo achi"}
+{"en": "so-so", "bn": "মোটামুটি", "pos": "sentence", "def": "A brief reply meaning neither good nor bad.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "motamuti"}
+{"en": "not bad", "bn": "খারাপ না", "pos": "sentence", "def": "A brief reply meaning fairly good or acceptable.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kharapo na"}
+{"en": "and you?", "bn": "আপনি কেমন?", "pos": "sentence", "def": "A follow-up question asking about the other person.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "apni kemno?"}
+{"en": "and you?", "bn": "তুমি কেমন?", "pos": "sentence", "def": "A follow-up question asking about the other person.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tumi kemno?"}
+{"en": "my name is...", "bn": "আমার নাম...", "pos": "sentence", "def": "A phrase used to introduce a name.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "amaro namo..."}
+{"en": "nice to meet you", "bn": "দেখা করে ভালো লাগলো", "pos": "sentence", "def": "A polite expression used when meeting someone.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dekha kore bhalo laglo"}
+{"en": "pleased to meet you", "bn": "আপনাকে দেখে ভালো লাগলো", "pos": "sentence", "def": "A polite expression used when meeting someone.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "apnake dekhe bhalo laglo"}
+{"en": "long time no see", "bn": "অনেক দিন পরে", "pos": "sentence", "def": "A greeting used when meeting after a long time.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oneko dino pore"}
+{"en": "what's up?", "bn": "কী খবর?", "pos": "sentence", "def": "A casual greeting used to ask how someone is doing.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kii khoboro?"}
+{"en": "everything okay?", "bn": "সব ঠিক?", "pos": "sentence", "def": "An expression of agreement or acknowledgement.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sobo thiko?"}
+{"en": "I'll go now", "bn": "চলি", "pos": "sentence", "def": "A casual expression used before leaving.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "coli"}
+{"en": "I am leaving", "bn": "আমি যাচ্ছি", "pos": "sentence", "def": "A phrase used as a greeting or expression: I am leaving.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ami yacchi"}
+{"en": "please come again", "bn": "আবার আসবেন", "pos": "sentence", "def": "A phrase used as a greeting or expression: please come again.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "abaro asben"}
+{"en": "please sit", "bn": "বসুন", "pos": "sentence", "def": "A phrase used as a greeting or expression: please sit.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bosun"}
+{"en": "sit", "bn": "বসো", "pos": "sentence", "def": "A polite instruction to sit.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "boso"}
+{"en": "please come", "bn": "আসুন", "pos": "sentence", "def": "A phrase used as a greeting or expression: please come.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "asun"}
+{"en": "come", "bn": "এসো", "pos": "sentence", "def": "A polite invitation to come.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eso"}
+{"en": "listen", "bn": "শুনুন", "pos": "sentence", "def": "An instruction to listen.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shunun"}
+{"en": "listen", "bn": "শোনো", "pos": "sentence", "def": "An instruction to listen.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shono"}
+{"en": "one minute", "bn": "এক মিনিট", "pos": "sentence", "def": "A request to wait for a minute.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eko minit"}
+{"en": "please wait a moment", "bn": "একটু অপেক্ষা করুন", "pos": "sentence", "def": "A phrase used as a greeting or expression: please wait a moment.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ektu opekkha korun"}
+{"en": "this person", "bn": "এই লোক", "pos": "noun", "def": "A word for a person or social role: this person.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ei lok"}
+{"en": "that person", "bn": "ওই লোক", "pos": "noun", "def": "A word for a person or social role: that person.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oi lok"}
+{"en": "best friend", "bn": "সেরা বন্ধু", "pos": "noun", "def": "A word for a person or social role: best friend.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sera bondhu"}
+{"en": "student", "bn": "ছাত্রী", "pos": "noun", "def": "A word for a person or social role: student.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "chatrii"}
+{"en": "people", "bn": "মানুষজন", "pos": "noun", "def": "A word for a person or social role: people.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "manushjon"}
+{"en": "younger brother", "bn": "ছোট ভাই", "pos": "noun", "def": "A word for a person or social role: younger brother.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "choto bhai"}
+{"en": "elder sister", "bn": "বড় বোন", "pos": "noun", "def": "A word for a person or social role: elder sister.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "boro bon"}
+{"en": "younger sister", "bn": "ছোট বোন", "pos": "noun", "def": "A word for a person or social role: younger sister.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "choto bon"}
+{"en": "paternal aunt", "bn": "ফুপু", "pos": "noun", "def": "A word for a person or social role: paternal aunt.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "phupu"}
+{"en": "grandmother", "bn": "নানি", "pos": "noun", "def": "A word for a person or social role: grandmother.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "nani"}
+{"en": "couple", "bn": "দম্পতি", "pos": "noun", "def": "A word for a person or social role: couple.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dompoti"}
+{"en": "relatives", "bn": "আত্মীয়স্বজন", "pos": "noun", "def": "A word for a person or social role: relatives.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "atmiiyosbojon"}
+{"en": "people", "bn": "লোকজন", "pos": "noun", "def": "A word for a person or social role: people.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "lokjon"}
+{"en": "employee", "bn": "কর্মচারী", "pos": "noun", "def": "A word for a person or social role: employee.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kormocarii"}
+{"en": "friends", "bn": "বন্ধুদের", "pos": "noun", "def": "A word for a person or social role: friends.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bondhuder"}
+{"en": "the person", "bn": "মানুষটা", "pos": "noun", "def": "A word for a person or social role: the person.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "manushta"}
+{"en": "polite", "bn": "ভদ্র", "pos": "noun", "def": "A word for a person or social role: polite.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhodr"}
+{"en": "ugly", "bn": "কুৎসিত", "pos": "noun", "def": "A word for a person or social role: ugly.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kuৎsit"}
+{"en": "short", "bn": "খাটো", "pos": "noun", "def": "A word for a person or social role: short.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khato"}
+{"en": "sad", "bn": "দুঃখী", "pos": "noun", "def": "A word for a person or social role: sad.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "duhkhii"}
+{"en": "team member", "bn": "দলের সদস্য", "pos": "noun", "def": "A word for a person or social role: team member.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dolero sodosy"}
+{"en": "assistant", "bn": "সহকারী", "pos": "noun", "def": "A word for a person or social role: assistant.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sohokarii"}
+{"en": "guide", "bn": "গাইড", "pos": "noun", "def": "A word for a person or social role: guide.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "gaid"}
+{"en": "engagement", "bn": "বাগদান", "pos": "noun", "def": "A word for a person or social role: engagement.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bagdan"}
+{"en": "alone", "bn": "একা", "pos": "noun", "def": "A word for a person or social role: alone.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eka"}
+{"en": "together", "bn": "একসাথে", "pos": "noun", "def": "A word for a person or social role: together.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eksathe"}
+{"en": "fourteen", "bn": "চৌদ্দ", "pos": "noun", "def": "The number fourteen.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "coudd"}
+{"en": "sixteen", "bn": "ষোল", "pos": "noun", "def": "The number sixteen.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shol"}
+{"en": "forty-two", "bn": "বিয়াল্লিশ", "pos": "noun", "def": "The number forty-two.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "biyallish"}
+{"en": "forty-four", "bn": "চুয়াল্লিশ", "pos": "noun", "def": "The number forty-four.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "cuyallish"}
+{"en": "forty-five", "bn": "পঁয়তাল্লিশ", "pos": "noun", "def": "The number forty-five.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ponyotallish"}
+{"en": "one hundred", "bn": "একশো", "pos": "noun", "def": "The number one hundred.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eksho"}
+{"en": "more / too much", "bn": "বেশি", "pos": "noun", "def": "The number more / too much.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "beshi"}
+{"en": "one and a half", "bn": "দেড়", "pos": "noun", "def": "The number one and a half.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "der"}
+{"en": "two", "bn": "দুইটা", "pos": "noun", "def": "The number two.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "duita"}
+{"en": "one", "bn": "একটা", "pos": "noun", "def": "The number one.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ekta"}
+{"en": "three", "bn": "তিনটা", "pos": "noun", "def": "The number three.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tinta"}
+{"en": "how many (things)?", "bn": "কয়টা?", "pos": "noun", "def": "The number how many (things)?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koyota?"}
+{"en": "how many people?", "bn": "কয়জন?", "pos": "noun", "def": "The number how many people?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koyojono?"}
+{"en": "general classifier", "bn": "টা", "pos": "noun", "def": "The number general classifier.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ta"}
+{"en": "piece", "bn": "পিস", "pos": "noun", "def": "The number piece.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pis"}
+{"en": "kilogram", "bn": "কেজি", "pos": "noun", "def": "The number kilogram.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "keji"}
+{"en": "pair", "bn": "জোড়া", "pos": "noun", "def": "The number pair.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "jora"}
+{"en": "one pair", "bn": "এক জোড়া", "pos": "noun", "def": "The number one pair.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eko jora"}
+{"en": "how much?", "bn": "কত?", "pos": "noun", "def": "The number how much?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koto?"}
+{"en": "how much does it cost?", "bn": "কত দাম?", "pos": "noun", "def": "The number how much does it cost?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koto damo?"}
+{"en": "expensive", "bn": "বেশি দাম", "pos": "noun", "def": "The number expensive.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "beshi dam"}
+{"en": "cheap", "bn": "কম দাম", "pos": "noun", "def": "The number cheap.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "komo dam"}
+{"en": "a little less", "bn": "একটু কম", "pos": "noun", "def": "The number a little less.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ektu kom"}
+{"en": "another one", "bn": "আরেকটা", "pos": "noun", "def": "The number another one.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "arekta"}
+{"en": "all", "bn": "সবগুলো", "pos": "noun", "def": "The number all.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sobogulo"}
+{"en": "a few", "bn": "কয়েকটা", "pos": "noun", "def": "The number a few.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koyekta"}
+{"en": "each", "bn": "প্রতিটি", "pos": "noun", "def": "The number each.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "protiti"}
+{"en": "one by one", "bn": "এক এক করে", "pos": "noun", "def": "The number one by one.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eko eko kore"}
+{"en": "total", "bn": "মোট", "pos": "noun", "def": "The number total.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mot"}
+{"en": "beef", "bn": "গরুর মাংস", "pos": "noun", "def": "A word for food or a drink: beef.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "goruro mangs"}
+{"en": "mutton", "bn": "খাসির মাংস", "pos": "noun", "def": "A word for food or a drink: mutton.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khasiro mangs"}
+{"en": "curry / vegetables", "bn": "তরকারি", "pos": "noun", "def": "A word for food or a drink: curry / vegetables.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "torokari"}
+{"en": "mashed potato", "bn": "আলু ভর্তা", "pos": "noun", "def": "A word for food or a drink: mashed potato.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "alu bhorta"}
+{"en": "mashed eggplant", "bn": "বেগুন ভর্তা", "pos": "noun", "def": "A word for food or a drink: mashed eggplant.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "beguno bhorta"}
+{"en": "chickpea street food", "bn": "চটপটি", "pos": "noun", "def": "A word for food or a drink: chickpea street food.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "cotopoti"}
+{"en": "fried vegetables", "bn": "ভাজি", "pos": "noun", "def": "A word for food or a drink: fried vegetables.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhaji"}
+{"en": "fried lentils", "bn": "ডাল ভাজি", "pos": "noun", "def": "A word for food or a drink: fried lentils.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dalo bhaji"}
+{"en": "soup", "bn": "স্যুপ", "pos": "noun", "def": "A word for food or a drink: soup.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "syup"}
+{"en": "green chili", "bn": "কাঁচা মরিচ", "pos": "noun", "def": "A word for food or a drink: green chili.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kanca moric"}
+{"en": "cabbage", "bn": "বাঁধাকপি", "pos": "noun", "def": "A word for food or a drink: cabbage.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bandhakpi"}
+{"en": "curry dish", "bn": "ডালনা", "pos": "noun", "def": "A word for food or a drink: curry dish.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dalna"}
+{"en": "black tea", "bn": "লাল চা", "pos": "noun", "def": "A word for food or a drink: black tea.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "lalo ca"}
+{"en": "cold drink", "bn": "ঠান্ডা পানীয়", "pos": "noun", "def": "A word for food or a drink: cold drink.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thanda paniiy"}
+{"en": "cup", "bn": "কাপ", "pos": "noun", "def": "A word for food or a drink: cup.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kap"}
+{"en": "plate", "bn": "প্লেট", "pos": "noun", "def": "A word for food or a drink: plate.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "plet"}
+{"en": "to cook", "bn": "রান্না করা", "pos": "verb", "def": "To cook.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ranna kora"}
+{"en": "boiled", "bn": "সেদ্ধ", "pos": "noun", "def": "A word for food or a drink: boiled.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "seddh"}
+{"en": "sweet", "bn": "মিষ্টি (স্বাদ)", "pos": "noun", "def": "A word for food or a drink: sweet.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mishti (sbado)"}
+{"en": "salty", "bn": "নোনতা", "pos": "noun", "def": "A word for food or a drink: salty.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "nonta"}
+{"en": "breakfast", "bn": "সকালের নাস্তা", "pos": "noun", "def": "A word for food or a drink: breakfast.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sokalero nasta"}
+{"en": "lunch", "bn": "দুপুরের খাবার", "pos": "noun", "def": "A word for food or a drink: lunch.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dupurero khabar"}
+{"en": "dinner", "bn": "রাতের খাবার", "pos": "noun", "def": "A word for food or a drink: dinner.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ratero khabar"}
+{"en": "order", "bn": "অর্ডার", "pos": "noun", "def": "A word for food or a drink: order.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ordar"}
+{"en": "to order", "bn": "অর্ডার করা", "pos": "verb", "def": "To order.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ordaro kora"}
+{"en": "give the bill", "bn": "বিল দিন", "pos": "noun", "def": "A word for food or a drink: give the bill.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bilo din"}
+{"en": "serving", "bn": "পরিবেশন", "pos": "noun", "def": "A word for food or a drink: serving.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "poribeshn"}
+{"en": "to serve", "bn": "পরিবেশন করা", "pos": "verb", "def": "To serve.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "poribeshno kora"}
+{"en": "to drink", "bn": "পান করা", "pos": "verb", "def": "To drink.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pano kora"}
+{"en": "vegetarian", "bn": "নিরামিষ", "pos": "noun", "def": "A word for food or a drink: vegetarian.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "niramish"}
+{"en": "non-vegetarian", "bn": "আমিষ", "pos": "noun", "def": "A word for food or a drink: non-vegetarian.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "amish"}
+{"en": "very spicy", "bn": "বেশি ঝাল", "pos": "noun", "def": "A word for food or a drink: very spicy.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "beshi jhal"}
+{"en": "less spicy", "bn": "কম ঝাল", "pos": "noun", "def": "A word for food or a drink: less spicy.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "komo jhal"}
+{"en": "give another one", "bn": "আরেকটা দিন", "pos": "noun", "def": "A word for food or a drink: give another one.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "arekta din"}
+{"en": "give this", "bn": "এটা দিন", "pos": "noun", "def": "A word for food or a drink: give this.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta din"}
+{"en": "I want this", "bn": "এটা চাই", "pos": "noun", "def": "A word for food or a drink: I want this.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta cai"}
+{"en": "what will you eat?", "bn": "কী খাবেন?", "pos": "noun", "def": "A word for food or a drink: what will you eat?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kii khabeno?"}
+{"en": "what will you eat?", "bn": "কী খাবে?", "pos": "noun", "def": "A word for food or a drink: what will you eat?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kii khabe?"}
+{"en": "giraffe", "bn": "জিরাফ", "pos": "noun", "def": "A word for an animal: giraffe.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "jiraph"}
+{"en": "grasshopper", "bn": "ঘাসফড়িং", "pos": "noun", "def": "A word for an animal: grasshopper.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ghasphoring"}
+{"en": "building", "bn": "বিল্ডিং", "pos": "noun", "def": "A word for a household-related thing: building.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bilding"}
+{"en": "wall", "bn": "দেয়াল", "pos": "noun", "def": "A word for a household-related thing: wall.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "deyal"}
+{"en": "living room", "bn": "বসার ঘর", "pos": "noun", "def": "A word for a household-related thing: living room.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bosaro ghor"}
+{"en": "bedroom", "bn": "শোবার ঘর", "pos": "noun", "def": "A word for a household-related thing: bedroom.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shobaro ghor"}
+{"en": "bathroom", "bn": "বাথরুম", "pos": "noun", "def": "A word for a household-related thing: bathroom.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bathrum"}
+{"en": "dining room", "bn": "ডাইনিং রুম", "pos": "noun", "def": "A word for a household-related thing: dining room.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "daining rum"}
+{"en": "guest room", "bn": "অতিথি ঘর", "pos": "noun", "def": "A word for a household-related thing: guest room.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "otithi ghor"}
+{"en": "drawer", "bn": "ড্রয়ার", "pos": "noun", "def": "A word for a household-related thing: drawer.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "droyar"}
+{"en": "carpet", "bn": "কার্পেট", "pos": "noun", "def": "A word for a household-related thing: carpet.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "karpet"}
+{"en": "light", "bn": "লাইট", "pos": "noun", "def": "A word for a household-related thing: light.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "lait"}
+{"en": "air conditioner", "bn": "এসি", "pos": "noun", "def": "A word for a household-related thing: air conditioner.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "esi"}
+{"en": "heater", "bn": "হিটার", "pos": "noun", "def": "A word for a household-related thing: heater.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "hitar"}
+{"en": "remote control", "bn": "রিমোট", "pos": "noun", "def": "A word for a household-related thing: remote control.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rimot"}
+{"en": "charger", "bn": "চার্জার", "pos": "noun", "def": "A word for a household-related thing: charger.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "carjar"}
+{"en": "plug", "bn": "প্লাগ", "pos": "noun", "def": "A word for a household-related thing: plug.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "plag"}
+{"en": "oven", "bn": "ওভেন", "pos": "noun", "def": "A word for a household-related thing: oven.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "obhen"}
+{"en": "pressure cooker", "bn": "প্রেসার কুকার", "pos": "noun", "def": "A word for a household-related thing: pressure cooker.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "presaro kukar"}
+{"en": "pot", "bn": "হাঁড়ি", "pos": "noun", "def": "A word for a household-related thing: pot.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "hanri"}
+{"en": "water mug", "bn": "মগ (বাথরুম)", "pos": "noun", "def": "A word for a household-related thing: water mug.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mogo (bathrumo)"}
+{"en": "trash can", "bn": "ডাস্টবিন", "pos": "noun", "def": "A word for a household-related thing: trash can.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dastobin"}
+{"en": "washing clothes", "bn": "কাপড় ধোয়া", "pos": "noun", "def": "A word for a household-related thing: washing clothes.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kapro dhoya"}
+{"en": "auto-rickshaw", "bn": "অটোরিকশা", "pos": "noun", "def": "A word for a transport-related thing or place: auto-rickshaw.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "otoriksha"}
+{"en": "ferry/launch", "bn": "লঞ্চ", "pos": "noun", "def": "A word for a transport-related thing or place: ferry/launch.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "lonc"}
+{"en": "van", "bn": "ভ্যান", "pos": "noun", "def": "A word for a transport-related thing or place: van.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhyan"}
+{"en": "railway station", "bn": "রেলস্টেশন", "pos": "noun", "def": "A word for a transport-related thing or place: railway station.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "relosteshn"}
+{"en": "bus stop/stand", "bn": "বাসস্ট্যান্ড", "pos": "noun", "def": "A word for a transport-related thing or place: bus stop/stand.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "basostyand"}
+{"en": "ticket counter", "bn": "টিকিট কাউন্টার", "pos": "noun", "def": "A word for a transport-related thing or place: ticket counter.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tikito kauntar"}
+{"en": "platform", "bn": "প্ল্যাটফর্ম", "pos": "noun", "def": "A word for a transport-related thing or place: platform.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "plyatphorm"}
+{"en": "bridge", "bn": "ব্রিজ", "pos": "noun", "def": "A word for a transport-related thing or place: bridge.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "brij"}
+{"en": "traffic signal", "bn": "সিগন্যাল", "pos": "noun", "def": "A word for a transport-related thing or place: traffic signal.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sigonyal"}
+{"en": "traffic", "bn": "ট্রাফিক", "pos": "noun", "def": "A word for a transport-related thing or place: traffic.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "traphik"}
+{"en": "to leave/go out", "bn": "বের হওয়া", "pos": "verb", "def": "To leave/go out.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bero hooya"}
+{"en": "passenger", "bn": "যাত্রী", "pos": "noun", "def": "A word for a transport-related thing or place: passenger.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "yatrii"}
+{"en": "behind", "bn": "পেছনে", "pos": "noun", "def": "A word for a transport-related thing or place: behind.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pechne"}
+{"en": "right", "bn": "ডানে", "pos": "noun", "def": "A word for a transport-related thing or place: right.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dane"}
+{"en": "left", "bn": "বামে", "pos": "noun", "def": "A word for a transport-related thing or place: left.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bame"}
+{"en": "far", "bn": "দূরে", "pos": "noun", "def": "A word for a transport-related thing or place: far.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "duure"}
+{"en": "how far", "bn": "কত দূর", "pos": "noun", "def": "A word for a transport-related thing or place: how far.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koto duur"}
+{"en": "how long/time", "bn": "কত সময়", "pos": "noun", "def": "A word for a transport-related thing or place: how long/time.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "koto somoy"}
+{"en": "to ask for directions", "bn": "রাস্তা জিজ্ঞেস করা", "pos": "verb", "def": "To ask for directions.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rasta jiggyeso kora"}
+{"en": "terminal", "bn": "টার্মিনাল", "pos": "noun", "def": "A word for a transport-related thing or place: terminal.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tarminal"}
+{"en": "booking", "bn": "বুকিং", "pos": "noun", "def": "A word for a transport-related thing or place: booking.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "buking"}
+{"en": "reservation", "bn": "রিজার্ভেশন", "pos": "noun", "def": "A word for a transport-related thing or place: reservation.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rijarbheshn"}
+{"en": "one-way", "bn": "একমুখী", "pos": "noun", "def": "A word for a transport-related thing or place: one-way.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ekmukhii"}
+{"en": "round trip", "bn": "যাওয়া-আসা", "pos": "noun", "def": "A word for a transport-related thing or place: round trip.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "yaoya-asa"}
+{"en": "luggage", "bn": "লাগেজ", "pos": "noun", "def": "A word for a transport-related thing or place: luggage.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "lagej"}
+{"en": "on time", "bn": "সময়মতো", "pos": "noun", "def": "A word for a transport-related thing or place: on time.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "somoyomoto"}
+{"en": "slow", "bn": "ধীরে", "pos": "noun", "def": "A word for a transport-related thing or place: slow.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhiire"}
+{"en": "stop", "bn": "স্টপেজ", "pos": "noun", "def": "A word for a transport-related thing or place: stop.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "stopej"}
+{"en": "cloudy", "bn": "মেঘলা", "pos": "adj", "def": "Having the quality of being cloudy.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "meghla"}
+{"en": "lightning", "bn": "বজ্রপাত", "pos": "noun", "def": "A word for a weather-related thing or condition: lightning.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bojropat"}
+{"en": "thunder", "bn": "গর্জন", "pos": "noun", "def": "A word for a weather-related thing or condition: thunder.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "gorjon"}
+{"en": "dry", "bn": "শুকনা", "pos": "adj", "def": "Free from moisture.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shukna"}
+{"en": "humidity", "bn": "আর্দ্রতা", "pos": "noun", "def": "A word for a weather-related thing or condition: humidity.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ardrota"}
+{"en": "to become hot", "bn": "গরম পড়া", "pos": "verb", "def": "To become hot.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "goromo pora"}
+{"en": "to become cold", "bn": "ঠান্ডা পড়া", "pos": "verb", "def": "To become cold.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thanda pora"}
+{"en": "to blow", "bn": "বাতাস দেওয়া", "pos": "verb", "def": "To blow.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bataso deoya"}
+{"en": "sun comes out", "bn": "রোদ ওঠা", "pos": "verb", "def": "To sun comes out.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rodo otha"}
+{"en": "to become cloudy", "bn": "মেঘ করা", "pos": "verb", "def": "To become cloudy.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "megho kora"}
+{"en": "degree", "bn": "ডিগ্রি", "pos": "noun", "def": "A word for a weather-related thing or condition: degree.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "digri"}
+{"en": "very hot", "bn": "বেশি গরম", "pos": "adj", "def": "Extremely hot.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "beshi gorom"}
+{"en": "very cold", "bn": "খুব ঠান্ডা", "pos": "adj", "def": "Extremely cold.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khubo thanda"}
+{"en": "clear sky", "bn": "পরিষ্কার আকাশ", "pos": "noun", "def": "A word for a weather-related thing or condition: clear sky.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "porishkaro akash"}
+{"en": "weather forecast", "bn": "আবহাওয়ার খবর", "pos": "noun", "def": "A word for a weather-related thing or condition: weather forecast.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "abhaoyaro khobor"}
+{"en": "to feel hot", "bn": "গরম লাগা", "pos": "verb", "def": "To feel hot.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "goromo laga"}
+{"en": "to feel cold", "bn": "ঠান্ডা লাগা", "pos": "verb", "def": "To feel cold.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thanda laga"}
+{"en": "to speak", "bn": "কথা বলা", "pos": "verb", "def": "To speak.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kotha bola"}
+{"en": "to play", "bn": "খেলা করা", "pos": "verb", "def": "To play.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khela kora"}
+{"en": "to be", "bn": "থাকা (অবস্থান)", "pos": "verb", "def": "To be.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thaka (obosthano)"}
+{"en": "to receive", "bn": "নেওয়া (গ্রহণ)", "pos": "verb", "def": "To receive.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "neoya (grohono)"}
+{"en": "to finish", "bn": "শেষ করা", "pos": "verb", "def": "To finish.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shesho kora"}
+{"en": "to pay", "bn": "দাম দেওয়া", "pos": "verb", "def": "To pay.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "damo deoya"}
+{"en": "to ask", "bn": "জিজ্ঞেস করা", "pos": "verb", "def": "To ask.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "jiggyeso kora"}
+{"en": "to fall", "bn": "পড়ে যাওয়া", "pos": "verb", "def": "To fall.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pore yaoya"}
+{"en": "to lift", "bn": "ওঠানো", "pos": "verb", "def": "To lift.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "othano"}
+{"en": "to seat", "bn": "বসানো", "pos": "verb", "def": "To seat.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bosano"}
+{"en": "to make stand", "bn": "দাঁড় করানো", "pos": "verb", "def": "To make stand.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "danro korano"}
+{"en": "to give drink", "bn": "পান করানো", "pos": "verb", "def": "To give drink.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pano korano"}
+{"en": "to store", "bn": "রাখা (সংরক্ষণ)", "pos": "verb", "def": "To store.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rakha (songrokkhono)"}
+{"en": "to keep open", "bn": "খোলা রাখা", "pos": "verb", "def": "To keep open.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khola rakha"}
+{"en": "to keep closed", "bn": "বন্ধ রাখা", "pos": "verb", "def": "To keep closed.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bondho rakha"}
+{"en": "to pick up", "bn": "নেওয়া (ধরা)", "pos": "verb", "def": "To pick up.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "neoya (dhora)"}
+{"en": "to hand over", "bn": "দেওয়া (হস্তান্তর)", "pos": "verb", "def": "To hand over.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "deoya (hostantoro)"}
+{"en": "to meet", "bn": "দেখা করা", "pos": "verb", "def": "To meet.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dekha kora"}
+{"en": "to message", "bn": "মেসেজ করা", "pos": "verb", "def": "To message.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mesejo kora"}
+{"en": "to recite/read aloud", "bn": "পাঠ করা", "pos": "verb", "def": "To recite/read aloud.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "patho kora"}
+{"en": "to practice", "bn": "অনুশীলন করা", "pos": "verb", "def": "To practice.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "onushiilno kora"}
+{"en": "to make mistake", "bn": "ভুল করা", "pos": "verb", "def": "To make mistake.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhulo kora"}
+{"en": "to stay", "bn": "থাকা (অবস্থান করা)", "pos": "verb", "def": "To stay.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thaka (obosthano kora)"}
+{"en": "to travel", "bn": "যাওয়া (ভ্রমণ)", "pos": "verb", "def": "To travel.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "yaoya (bhromono)"}
+{"en": "to board", "bn": "ওঠা (গাড়িতে)", "pos": "verb", "def": "To board.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "otha (garite)"}
+{"en": "to get off", "bn": "নামা (গাড়ি থেকে)", "pos": "verb", "def": "To get off.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "nama (gari theke)"}
+{"en": "to place", "bn": "রাখা (স্থাপন)", "pos": "verb", "def": "To place.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "rakha (sthapno)"}
+{"en": "to take out", "bn": "বের করা", "pos": "verb", "def": "To take out.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bero kora"}
+{"en": "to take off", "bn": "খুলে ফেলা", "pos": "verb", "def": "To take off.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khule phela"}
+{"en": "to wear", "bn": "ধরা (পরা)", "pos": "verb", "def": "To wear.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhora (pora)"}
+{"en": "to go play", "bn": "খেলতে যাওয়া", "pos": "verb", "def": "To go play.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khelte yaoya"}
+{"en": "to plan", "bn": "পরিকল্পনা করা", "pos": "verb", "def": "To plan.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "porikolpona kora"}
+{"en": "to decide", "bn": "সিদ্ধান্ত নেওয়া", "pos": "verb", "def": "To decide.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "siddhanto neoya"}
+{"en": "to believe", "bn": "বিশ্বাস করা", "pos": "verb", "def": "To believe.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bishbaso kora"}
+{"en": "to feel/think", "bn": "মনে হওয়া", "pos": "verb", "def": "To feel/think.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mone hooya"}
+{"en": "to take", "bn": "লাগা (সময়)", "pos": "verb", "def": "To take.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "laga (somoyo)"}
+{"en": "to end", "bn": "শেষ হওয়া", "pos": "verb", "def": "To end.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shesho hooya"}
+{"en": "to die", "bn": "মারা যাওয়া", "pos": "verb", "def": "To die.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "mara yaoya"}
+{"en": "to get sick", "bn": "অসুস্থ হওয়া", "pos": "verb", "def": "To get sick.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "osustho hooya"}
+{"en": "to recover", "bn": "সুস্থ হওয়া", "pos": "verb", "def": "To recover.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sustho hooya"}
+{"en": "to rest", "bn": "বিশ্রাম নেওয়া", "pos": "verb", "def": "To rest.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bishramo neoya"}
+{"en": "to hurt", "bn": "ব্যথা করা", "pos": "verb", "def": "To hurt.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "byotha kora"}
+{"en": "to see a doctor", "bn": "ডাক্তার দেখানো", "pos": "verb", "def": "To see a doctor.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "daktaro dekhano"}
+{"en": "to take medicine", "bn": "ওষুধ খাওয়া", "pos": "verb", "def": "To take medicine.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oshudho khaoya"}
+{"en": "to eat food", "bn": "খাওয়া (খাবার)", "pos": "verb", "def": "To eat food.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khaoya (khabaro)"}
+{"en": "to drink water", "bn": "পান করা (পানি)", "pos": "verb", "def": "To drink water.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "pano kora (pani)"}
+{"en": "to feel hungry", "bn": "খিদে লাগা", "pos": "verb", "def": "To feel hungry.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khide laga"}
+{"en": "to feel thirsty", "bn": "তৃষ্ণা লাগা", "pos": "verb", "def": "To feel thirsty.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "trishna laga"}
+{"en": "to place order", "bn": "অর্ডার দেওয়া", "pos": "verb", "def": "To place order.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ordaro deoya"}
+{"en": "to pay bill", "bn": "বিল দেওয়া", "pos": "verb", "def": "To pay bill.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bilo deoya"}
+{"en": "to stay", "bn": "থাকা (হোটেলে)", "pos": "verb", "def": "To stay.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thaka (hotele)"}
+{"en": "to book", "bn": "বুক করা", "pos": "verb", "def": "To book.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "buko kora"}
+{"en": "to check in", "bn": "চেক ইন করা", "pos": "verb", "def": "To check in.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ceko ino kora"}
+{"en": "to check out", "bn": "চেক আউট করা", "pos": "verb", "def": "To check out.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ceko auto kora"}
+{"en": "to enter", "bn": "ঢোকা (ঘরে)", "pos": "verb", "def": "To enter.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhoka (ghore)"}
+{"en": "to leave", "bn": "বের হওয়া (ঘর থেকে)", "pos": "verb", "def": "To leave.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bero hooya (ghoro theke)"}
+{"en": "to close door", "bn": "বন্ধ করা (দরজা)", "pos": "verb", "def": "To close door.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bondho kora (doroja)"}
+{"en": "to open door", "bn": "খোলা (দরজা)", "pos": "verb", "def": "To open door.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khola (doroja)"}
+{"en": "to watch", "bn": "দেখা (টিভি)", "pos": "verb", "def": "To watch.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dekha (tibhi)"}
+{"en": "to listen", "bn": "শোনা (গান)", "pos": "verb", "def": "To listen.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shona (gano)"}
+{"en": "to use", "bn": "ব্যবহার করা (ফোন)", "pos": "verb", "def": "To use.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "byoboharo kora (phono)"}
+{"en": "to charge", "bn": "চার্জ দেওয়া", "pos": "verb", "def": "To charge.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "carjo deoya"}
+{"en": "expensive", "bn": "দামি", "pos": "adj", "def": "Having the quality of being expensive.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dami"}
+{"en": "near", "bn": "কাছের", "pos": "adj", "def": "At a short distance.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kacher"}
+{"en": "far", "bn": "দূরের", "pos": "adj", "def": "At a great distance.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "duurer"}
+{"en": "angry", "bn": "রাগান্বিত", "pos": "adj", "def": "Feeling or showing anger.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "raganbit"}
+{"en": "scary", "bn": "ভয়ঙ্কর", "pos": "adj", "def": "Having the quality of being scary.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bhoyongkor"}
+{"en": "safe", "bn": "নিরাপদ", "pos": "adj", "def": "Having the quality of being safe.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "nirapd"}
+{"en": "dangerous", "bn": "বিপজ্জনক", "pos": "adj", "def": "Having the quality of being dangerous.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bipojjonok"}
+{"en": "tired", "bn": "ক্লান্ত", "pos": "adj", "def": "Having the quality of being tired.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "klant"}
+{"en": "fresh", "bn": "সতেজ", "pos": "adj", "def": "Having the quality of being fresh.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sotej"}
+{"en": "dishonest", "bn": "অসৎ", "pos": "adj", "def": "Having the quality of being dishonest.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "osoৎ"}
+{"en": "hardworking", "bn": "পরিশ্রমী", "pos": "adj", "def": "Having the quality of being hardworking.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "porishromii"}
+{"en": "poor", "bn": "গরিব", "pos": "adj", "def": "Having the quality of being poor.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "gorib"}
+{"en": "piping hot", "bn": "গরম গরম", "pos": "adj", "def": "Having the quality of being piping hot.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "goromo gorom"}
+{"en": "very cold", "bn": "ঠান্ডা ঠান্ডা", "pos": "adj", "def": "Extremely cold.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "thanda thanda"}
+{"en": "dry", "bn": "শুকনো", "pos": "adj", "def": "Free from moisture.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shukno"}
+{"en": "shiny", "bn": "ঝকঝকে", "pos": "adj", "def": "Having the quality of being shiny.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "jhokojhoke"}
+{"en": "dull/faded", "bn": "মলিন", "pos": "adj", "def": "Having the qualities of being dull or faded.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "molin"}
+{"en": "soon", "bn": "শিগগির", "pos": "noun", "def": "A word or phrase related to time: soon.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "shiggir"}
+{"en": "every day", "bn": "প্রতিদিন", "pos": "noun", "def": "A word or phrase related to time: every day.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "protidin"}
+{"en": "every night", "bn": "প্রতিরাত", "pos": "noun", "def": "A word or phrase related to time: every night.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "protirat"}
+{"en": "never", "bn": "কখনও না", "pos": "noun", "def": "A word or phrase related to time: never.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kokhonoo na"}
+{"en": "rarely", "bn": "খুব কম", "pos": "noun", "def": "A word or phrase related to time: rarely.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "khubo kom"}
+{"en": "early", "bn": "আগে আগে", "pos": "noun", "def": "A word or phrase related to time: early.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "age age"}
+{"en": "right now", "bn": "এই মুহূর্তে", "pos": "noun", "def": "A word or phrase related to time: right now.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ei muhuurte"}
+{"en": "long time", "bn": "দীর্ঘ সময়", "pos": "noun", "def": "A word or phrase related to time: long time.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "diirgho somoy"}
+{"en": "how many", "bn": "কতগুলো", "pos": "sentence", "def": "A question word used to ask about count.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kotogulo"}
+{"en": "whom", "bn": "কাকে", "pos": "sentence", "def": "A question word used to ask about the object of a verb or preposition.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kake"}
+{"en": "how long", "bn": "কতক্ষণ", "pos": "sentence", "def": "A question word used to ask about duration.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kotokkhon"}
+{"en": "what is this?", "bn": "এটা কী?", "pos": "sentence", "def": "A question used to ask what something is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta kii?"}
+{"en": "what is that?", "bn": "ওটা কী?", "pos": "sentence", "def": "A question used to ask what something is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ota kii?"}
+{"en": "who is this?", "bn": "এটা কে?", "pos": "sentence", "def": "A question used to ask who someone is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta ke?"}
+{"en": "who are you?", "bn": "আপনি কে?", "pos": "sentence", "def": "A question used to ask who someone is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "apni ke?"}
+{"en": "where do you live?", "bn": "তুমি কোথায় থাকো?", "pos": "sentence", "def": "A question used to ask where someone lives.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tumi kothayo thako?"}
+{"en": "where do you live?", "bn": "আপনি কোথায় থাকেন?", "pos": "sentence", "def": "A question used to ask where someone lives.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "apni kothayo thakeno?"}
+{"en": "where is this?", "bn": "এটা কোথায়?", "pos": "sentence", "def": "A question used to ask where something is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta kothayo?"}
+{"en": "where is the bathroom?", "bn": "বাথরুম কোথায়?", "pos": "sentence", "def": "A question used to ask where the bathroom is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bathrumo kothayo?"}
+{"en": "where is the station?", "bn": "স্টেশন কোথায়?", "pos": "sentence", "def": "A question used to ask where the station is.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "steshno kothayo?"}
+{"en": "how much is this?", "bn": "এটা কত দাম?", "pos": "sentence", "def": "A question used to ask the price of something.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta koto damo?"}
+{"en": "how much is this?", "bn": "এটা কত?", "pos": "sentence", "def": "A question used to ask the price of something.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "eta koto?"}
+{"en": "how are you?", "bn": "তুমি কেমন আছো?", "pos": "sentence", "def": "A question used to ask how are you?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tumi kemno acho?"}
+{"en": "is everything okay?", "bn": "সব ঠিক আছে?", "pos": "sentence", "def": "An expression of agreement or acknowledgement.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sobo thiko ache?"}
+{"en": "why not?", "bn": "কেন না?", "pos": "sentence", "def": "A question used to ask for a reason not to do something.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "keno na?"}
+{"en": "why now?", "bn": "এখন কেন?", "pos": "sentence", "def": "A question used to ask for the reason something is happening now.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "ekhno keno?"}
+{"en": "when will (you) come?", "bn": "কখন আসবে?", "pos": "sentence", "def": "A question used to ask when someone will come.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kokhono asbe?"}
+{"en": "what should be done?", "bn": "কী করতে হবে?", "pos": "sentence", "def": "A question used to ask what action should be taken.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kii korote hobe?"}
+{"en": "how will I go?", "bn": "কীভাবে যাবো?", "pos": "sentence", "def": "A question used to ask how the speaker should go.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "kiibhabe yabo?"}
+{"en": "then", "bn": "তাহলে", "pos": "sentence", "def": "A conversational transition meaning then.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "tahle"}
+{"en": "of course", "bn": "অবশ্যই", "pos": "sentence", "def": "An expression of certainty or agreement.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "oboshyoi"}
+{"en": "please say again", "bn": "আবার বলুন", "pos": "sentence", "def": "A request to repeat something.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "abaro bolun"}
+{"en": "I understand", "bn": "বুঝেছি", "pos": "sentence", "def": "A statement showing comprehension.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bujhechi"}
+{"en": "I don't understand", "bn": "বুঝিনি", "pos": "sentence", "def": "A statement showing lack of comprehension.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "bujhini"}
+{"en": "speak slowly", "bn": "ধীরে বলুন", "pos": "sentence", "def": "A request to speak slowly.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "dhiire bolun"}
+{"en": "can you help?", "bn": "সাহায্য করবেন?", "pos": "sentence", "def": "A request for help.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "sahayyo korobeno?"}
+{"en": "anything else?", "bn": "আর কিছু?", "pos": "sentence", "def": "A phrase used as a greeting or expression: anything else?.", "source": "Bengal Bird", "license": "GNU General Public License v3.0", "romanised": "aro kichu?"}

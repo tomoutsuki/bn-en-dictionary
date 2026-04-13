@@ -1,4 +1,4 @@
-This is a Bengali to English dictionary in JSONL, by using data derived from [Wiktionary](https://www.wiktionary.org/) dump.
+This is a Bengali to English dictionary in JSONL, by using data derived from [Wiktionary](https://www.wiktionary.org/) dump and [Bengal Bird](https://github.com/tomoutsuki/BengalBird) vocabulary list.
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Usage

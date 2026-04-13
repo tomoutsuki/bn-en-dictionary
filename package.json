@@ -1,6 +1,6 @@
 {
   "name": "bn-en-dictionary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bengali to English dictionary with Bengali and romanized lookup based on Wiktionary dump.",
   "main": "src/index.js",
   "type": "commonjs",
